@@ -1,27 +1,183 @@
-# 💫 About Me:
-## 👋 Hi, I'm Saurav Kumar <br><br>🎮 **Unreal Engine Game Developer** | 💻 Programmer | 🚀 B.Tech CSE Student<br><br>I am passionate about building interactive games and gameplay systems using **Unreal Engine and C++**.<br>Currently improving my skills in **game mechanics, player interaction systems, and game optimization**.<br><br>### 🎯 What I Do<br><br>* 🎮 Develop games using **Unreal Engine 5**<br>* ⚙️ Gameplay programming with **C++ and Blueprints**<br>* 🧠 Implement game mechanics and interaction systems<br>* 🌐 Frontend web development and UI design<br><br>### 🛠 Game Development Skills<br><br>* Unreal Engine 5<br>* C++<br>* Blueprints<br>* Gameplay Programming<br>* Game Mechanics<br>* Level Design<br>* Debugging & Optimization<br><br>### 💻 Programming Skills<br><br>* C++<br>* Java<br>* Data Structures & Algorithms<br>* Git & GitHub<br><br>### 📂 Featured Projects<br><br>* 🎮 Dungeon Escape (Unreal Engine Project)<br>* 🔫 Battle Blaster Game<br>* 🌍 Traveling Website<br><br>### 🚀 Goals<br><br>* Become a **professional Unreal Engine Game Developer**<br>* Build complete **3D games and gameplay systems**<br>* Participate in **Game Jams and Hackathons**<br>* Contribute to open-source game development projects<br><br>### 📫 Connect With Me<br><br>GitHub: https://github.com/SauravCraft<br>
+<div align="center">
 
+<!-- Typing animation header -->
+<a href="https://github.com/SauravCraft">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Game+Systems+Engineer+%7C+UE5+%2F+C%2B%2B;Networked+Gameplay+%26+Replication;Frontend+%26+UI%2FUX+Associate;B.Tech+CSE+%40+Galgotias+University;Open+for+Internships+%26+Entry-Level+Roles" alt="Typing SVG" />
+</a>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord.gg/GErbPSS4) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/buildnplayofficial) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/@BuildNPlayOfficial) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Sauravkumar7739s@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SauravCraft&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SauravCraft&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SauravCraft&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B1A,50:0066CC,100:8B5CF6&height=180&section=header&text=Saurav%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Building%20systems%20in%20Unreal%20Engine%205%20and%20on%20the%20web&descAlignY=58&descSize=18" width="100%"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SauravCraft&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SauravCraft&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SauravCraft&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🎮 About Me
+
+```yaml
+role:        Game Systems Engineer (Unreal Engine 5 / C++)
+secondary:   Frontend & UI/UX Associate
+education:   B.Tech CSE, Galgotias University (Class of 2028)
+location:    Greater Noida, India
+focus:       Networking & Replication · Level Streaming · Character Movement
+status:      🟢 Open to Internships & Entry-Level Roles
+```
+
+I'm a Computer Science student specializing in **Unreal Engine 5 systems programming** — server-replicated gameplay, dynamic level streaming, and movement-feel tuning. I also work as a **Frontend & UI/UX Associate**, designing in Figma and shipping responsive HTML/CSS/JS.
+
+- 🔭 Currently building a **Multiplayer Survival Architecture**, integrating the **Gameplay Ability System (GAS)**, and developing **Advanced Inventory V2**
+- 🌱 Learning the **Gameplay Ability System (GAS)** and pursuing **RHCSA (Linux)** certification
+- 📜 Certified in OOP (C++), UE5 Fundamentals, Advanced UMG/UI-UX, Inventory Systems, and Oracle SQL
+- 💬 Ask me about Unreal Engine replication, level streaming, or character movement systems
+- 📫 Reach me at **sauravkumar7739s@gmail.com**
+- 🌐 Portfolio: **[sauravcraft.netlify.app](https://sauravcraft.netlify.app)**
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+**Game Development**
+
+<img src="https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blueprints-0066CC?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white"/>
+
+**Programming Languages**
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+**Frontend & Design**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
+**Tools & Platforms**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### ⬡ [Networked Inventory System](https://github.com/SauravCraft/Inventory_System)
+Server-replicated inventory system addressing replication latency in multiplayer environments using **Delta Replication** and **Fast Array Serialization**.
+
+`Unreal Engine 5` `C++` `Replication`
+
+</td>
+<td width="50%" valign="top">
+
+#### ◈ [Dungeon Escape Game](https://github.com/SauravCraft/Dungeon_Escape)
+Procedural dungeon escape game with non-linear room traversal, dynamic level streaming, and trap-avoidance mechanics across 5 unique layouts.
+
+`Unreal Engine 5` `C++` `Niagara`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### ▲ [Parkour Game](https://github.com/SauravCraft/ParkourGame)
+High-velocity first-person movement prototype with wall-running, ledge-grabbing, and vaulting via Unreal's Enhanced Input System.
+
+`Unreal Engine 5` `C++` `Enhanced Input`
+
+</td>
+<td width="50%" valign="top">
+
+#### ✦ [Battle Blaster](https://github.com/SauravCraft/BattleBlasterGame)
+Arcade-style shooter prototype with weapon swapping, health regen, AI enemy spawning, and particle-based combat effects.
+
+`Unreal Engine 5` `C++` `Blueprints`
+
+</td>
+</tr>
+</table>
+
+#### 🌐 [Developer Portfolio](https://github.com/SauravCraft/portfolio) — [Live Site ↗](https://sauravcraft.netlify.app)
+A cyberpunk-themed, fully responsive developer portfolio built with vanilla HTML, CSS, and JavaScript — featuring custom animations, an accessible design system, and per-project case studies.
+
+`HTML/CSS/JS` `Canvas API` `Responsive Design`
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SauravCraft&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a18&title_color=00D4FF&icon_color=A855F7&text_color=A1A1AA&ring_color=00D4FF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SauravCraft&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a18&title_color=00D4FF&text_color=A1A1AA" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SauravCraft&theme=tokyonight&hide_border=true&background=0A0A18&ring=00D4FF&fire=A855F7&currStreakLabel=00D4FF" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SauravCraft&theme=react-dark&hide_border=true&bg_color=0A0A18&color=00D4FF&line=A855F7&point=F5C518" width="100%"/>
+
+</div>
+
+---
+
+### 🏆 Achievements
+
+<div align="center">
+
+| 10+ | 5+ | 500+ | 3+ / 2+ |
+|:---:|:---:|:---:|:---:|
+| Total Projects Built | Game Projects (UE5) | Hours in Unreal Engine 5 | Web / UI-UX Projects |
+
+</div>
+
+---
+
+### 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:sauravkumar7739s@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/saurav-kumar" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://sauravcraft.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+
+</div>
+
+<div align="center">
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=SauravCraft&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:0066CC,100:0B0B1A&height=100&section=footer" width="100%"/>
