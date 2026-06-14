@@ -10,6 +10,18 @@
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B1A,50:0066CC,100:8B5CF6&height=180&section=header&text=Saurav%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Building%20systems%20in%20Unreal%20Engine%205%20and%20on%20the%20web&descAlignY=58&descSize=18" width="100%"/>
 
+<!-- Quick badges -->
+<a href="https://www.linkedin.com/in/saurav-kumar-88a069315/?skipRedirect=true" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://sauravcraft.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+<a href="mailto:sauravkumar7739s@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-00FF88?style=for-the-badge"/>
+
 </div>
 
 ---
@@ -36,25 +48,56 @@ I'm a Computer Science student specializing in **Unreal Engine 5 systems program
 
 ---
 
-### 🛠️ Tech Stack
+### 🧩 Skill Tree — Click to Expand
 
-<div align="center">
+<details>
+<summary><b>⬡ Game Development (UE5 / C++)</b></summary>
+<br/>
 
-**Game Development**
+| Skill | Level |
+|---|---|
+| Unreal Engine 5 (500+ hrs) | 🟩🟩🟩🟩🟨 Advanced |
+| C++ Gameplay Programming | 🟩🟩🟩🟩🟨 Advanced |
+| Blueprints / UMG | 🟩🟩🟩🟩🟨 Advanced |
+| Multiplayer Replication | 🟩🟩🟩⬜⬜ Intermediate |
+| Gameplay Ability System (GAS) | 🟩🟩⬜⬜⬜ Learning |
 
 <img src="https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Blueprints-0066CC?style=for-the-badge&logo=unrealengine&logoColor=white"/>
 <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white"/>
 
-**Programming Languages**
+</details>
+
+<details>
+<summary><b>{ } Programming Languages</b></summary>
+<br/>
+
+| Skill | Level |
+|---|---|
+| C++ | 🟩🟩🟩🟩🟨 Advanced |
+| C | 🟩🟩🟩⬜⬜ Intermediate |
+| SQL (Oracle Certified) | 🟩🟩🟩⬜⬜ Intermediate |
+| Python / Java | 🟩🟩🟩⬜⬜ Intermediate |
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-**Frontend & Design**
+</details>
+
+<details>
+<summary><b>⟨/⟩ Frontend & Design</b></summary>
+<br/>
+
+| Skill | Level |
+|---|---|
+| HTML / CSS / JS | 🟩🟩🟩🟩🟨 Advanced |
+| Figma (High-Fidelity Prototyping) | 🟩🟩🟩🟩🟨 Advanced |
+| React | 🟩🟩⬜⬜⬜ Learning |
+| Tailwind CSS | 🟩🟩⬜⬜⬜ Learning |
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -63,64 +106,101 @@ I'm a Computer Science student specializing in **Unreal Engine 5 systems program
 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
-**Tools & Platforms**
+</details>
+
+<details>
+<summary><b>⌘ Tools & Pipeline</b></summary>
+<br/>
+
+| Skill | Level |
+|---|---|
+| Git / GitHub | 🟩🟩🟩🟩🟨 Advanced |
+| Visual Studio | 🟩🟩🟩🟩🟨 Advanced |
+| Blender (3D Asset Integration) | 🟩🟩🟩⬜⬜ Intermediate |
+| Linux (RHCSA Path) | 🟩🟩⬜⬜⬜ Learning |
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
-</div>
+</details>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects — Click a Project to See Details
+
+<details open>
+<summary><b>⬡ Networked Inventory System</b> — Server-replicated UE5 inventory</summary>
+<br/>
+
+> Server-replicated inventory system addressing replication latency in multiplayer environments, using **Delta Replication** and **Fast Array Serialization** for high-performance synchronization.
+
+**Stack:** `Unreal Engine 5` `C++` `Replication` `Fast Array Serialization`
+
+**[View Repo →](https://github.com/SauravCraft/Inventory_System)**
+
+</details>
+
+<details>
+<summary><b>◈ Dungeon Escape Game</b> — Procedural dungeon with level streaming</summary>
+<br/>
+
+> A dungeon escape game with non-linear room traversal, dynamic level streaming, trap-avoidance mechanics, and dynamic lighting puzzles across **5 unique layouts**.
+
+**Stack:** `Unreal Engine 5` `C++` `Blueprints` `Niagara`
+
+**[View Repo →](https://github.com/SauravCraft/Dungeon_Escape)** · **[Live Demo →](https://sauravcraft.netlify.app/projects/dungeon)**
+
+</details>
+
+<details>
+<summary><b>▲ Parkour Game</b> — High-velocity movement prototype</summary>
+<br/>
+
+> A first-person movement prototype with wall-running, ledge-grabbing, vaulting, and traversal animations — built on Unreal's **Enhanced Input System** for sub-frame responsiveness.
+
+**Stack:** `Unreal Engine 5` `C++` `Enhanced Input System`
+
+**[View Repo →](https://github.com/SauravCraft/ParkourGame)** · **[Live Demo →](https://sauravcraft.netlify.app/projects/parkour)**
+
+</details>
+
+<details>
+<summary><b>✦ Battle Blaster</b> — Arcade-style shooter prototype</summary>
+<br/>
+
+> An arcade-style shooter with weapon swapping, health regeneration, AI enemy spawning, and particle-based combat effects — prototyped into a playable arena level in **1 month**.
+
+**Stack:** `Unreal Engine 5` `C++` `Blueprints`
+
+**[View Repo →](https://github.com/SauravCraft/BattleBlasterGame)**
+
+</details>
+
+<details>
+<summary><b>🌐 Developer Portfolio</b> — Cyberpunk-themed personal site</summary>
+<br/>
+
+> A cyberpunk-themed, fully responsive developer portfolio built with vanilla HTML, CSS, and JavaScript — featuring custom animations, an accessible design system, and per-project case studies.
+
+**Stack:** `HTML/CSS/JS` `Canvas API` `Responsive Design`
+
+**[View Repo →](https://github.com/SauravCraft/portfolio)** · **[Live Site →](https://sauravcraft.netlify.app)**
+
+</details>
+
+---
+
+### 📡 Currently Building
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### ⬡ [Networked Inventory System](https://github.com/SauravCraft/Inventory_System)
-Server-replicated inventory system addressing replication latency in multiplayer environments using **Delta Replication** and **Fast Array Serialization**.
-
-`Unreal Engine 5` `C++` `Replication`
-
-</td>
-<td width="50%" valign="top">
-
-#### ◈ [Dungeon Escape Game](https://github.com/SauravCraft/Dungeon_Escape)
-Procedural dungeon escape game with non-linear room traversal, dynamic level streaming, and trap-avoidance mechanics across 5 unique layouts.
-
-`Unreal Engine 5` `C++` `Niagara`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### ▲ [Parkour Game](https://github.com/SauravCraft/ParkourGame)
-High-velocity first-person movement prototype with wall-running, ledge-grabbing, and vaulting via Unreal's Enhanced Input System.
-
-`Unreal Engine 5` `C++` `Enhanced Input`
-
-</td>
-<td width="50%" valign="top">
-
-#### ✦ [Battle Blaster](https://github.com/SauravCraft/BattleBlasterGame)
-Arcade-style shooter prototype with weapon swapping, health regen, AI enemy spawning, and particle-based combat effects.
-
-`Unreal Engine 5` `C++` `Blueprints`
-
-</td>
-</tr>
-</table>
-
-#### 🌐 [Developer Portfolio](https://github.com/SauravCraft/portfolio) — [Live Site ↗](https://sauravcraft.netlify.app)
-A cyberpunk-themed, fully responsive developer portfolio built with vanilla HTML, CSS, and JavaScript — featuring custom animations, an accessible design system, and per-project case studies.
-
-`HTML/CSS/JS` `Canvas API` `Responsive Design`
+| Status | Project | Stack |
+|:---:|---|---|
+| 🟢 Active | Multiplayer Survival Architecture | `UE5` `C++` `Replication` |
+| 🟢 Active | Gameplay Ability System (GAS) Integration | `UE5` `GAS` `C++` |
+| 🟡 In Progress | Advanced Inventory V2 | `UE5` `UMG` `Fast Array Serialization` |
 
 </div>
 
@@ -145,6 +225,18 @@ A cyberpunk-themed, fully responsive developer portfolio built with vanilla HTML
 
 ---
 
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SauravCraft/SauravCraft/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation"/>
+
+<sub>⚙️ Animates automatically via GitHub Actions — see setup note below</sub>
+
+</div>
+
+---
+
 ### 🏆 Achievements
 
 <div align="center">
@@ -157,6 +249,20 @@ A cyberpunk-themed, fully responsive developer portfolio built with vanilla HTML
 
 ---
 
+### 🎯 Career Goal
+
+<div align="center">
+
+```
+Seeking a high-impact internship or entry-level role in
+Game Systems Engineering (Unreal Engine 5 / C++)
+→ Long-term goal: Senior Gameplay Programmer / Engine Systems Engineer
+```
+
+</div>
+
+---
+
 ### 🤝 Connect With Me
 
 <div align="center">
@@ -164,11 +270,14 @@ A cyberpunk-themed, fully responsive developer portfolio built with vanilla HTML
 <a href="mailto:sauravkumar7739s@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="[https://www.linkedin.com/in/saurav-kumar](https://www.linkedin.com/in/saurav-kumar-88a069315/?skipRedirect=true)" target="_blank">
+<a href="https://www.linkedin.com/in/saurav-kumar-88a069315/?skipRedirect=true" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://sauravcraft.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+<a href="https://github.com/SauravCraft" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
