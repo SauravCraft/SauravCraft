@@ -1,16 +1,22 @@
 <div align="center">
 
-<!-- Typing animation header -->
+<!-- Animated header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B1A,50:0066CC,100:8B5CF6&height=200&section=header&text=SAURAV%20KUMAR&fontSize=70&fontColor=ffffff&fontAlignY=32&animation=fadeIn&desc=Game%20Systems%20Engineer%20%E2%80%A2%20UE5%20%2F%20C%2B%2B%20%E2%80%A2%20Frontend%20%26%20UI%2FUX&descAlignY=55&descSize=16&animation=twinkling" width="100%"/>
+
+<!-- Typing animation -->
 <a href="https://github.com/SauravCraft">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Game+Systems+Engineer+%7C+UE5+%2F+C%2B%2B;Networked+Gameplay+%26+Replication;Frontend+%26+UI%2FUX+Associate;B.Tech+CSE+%40+Galgotias+University;Open+for+Internships+%26+Entry-Level+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=900&color=00D4FF&center=true&vCenter=true&width=700&height=40&lines=%3E+Loading+Player_SauravKumar.exe...;%3E+Specialization%3A+UE5+Networking+%26+Replication;%3E+Secondary+Class%3A+Frontend+%2F+UI-UX+Associate;%3E+Status%3A+Open+to+Internships+%26+Entry-Level+Roles;%3E+Press+START+to+scroll+down" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B1A,50:0066CC,100:8B5CF6&height=180&section=header&text=Saurav%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Building%20systems%20in%20Unreal%20Engine%205%20and%20on%20the%20web&descAlignY=58&descSize=18" width="100%"/>
+<!-- Status badges -->
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF88?style=for-the-badge&logo=statuspage&logoColor=white"/>
+<img src="https://img.shields.io/badge/CLASS-Game%20Systems%20Engineer-00D4FF?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+<img src="https://img.shields.io/badge/LEVEL-B.Tech%20CSE%20%2F%202028-A855F7?style=for-the-badge&logo=googlescholar&logoColor=white"/>
 
-<!-- Quick badges -->
+<br/><br/>
+
 <a href="https://www.linkedin.com/in/saurav-kumar-88a069315/?skipRedirect=true" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -20,11 +26,10 @@
 <a href="mailto:sauravkumar7739s@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-00FF88?style=for-the-badge"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B1A,100:8B5CF6&height=3&width=100%" width="100%"/>
 
 ### 🎮 About Me
 
@@ -46,7 +51,21 @@ I'm a Computer Science student specializing in **Unreal Engine 5 systems program
 - 📫 Reach me at **sauravkumar7739s@gmail.com**
 - 🌐 Portfolio: **[sauravcraft.netlify.app](https://sauravcraft.netlify.app)**
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B1A,100:8B5CF6&height=3&width=100%" width="100%"/>
+
+### 🛠️ Tech Stack — Orbiting Icons
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,html,css,js,react,tailwind,figma,git,github,visualstudio,linux,blender&theme=dark&perline=8" />
+
+</div>
+
+<div align="center">
+<sub>🎮 Game Dev · 💻 Languages · 🎨 Design · 🧰 Tools — hover not supported in README, but every icon above is part of the active build</sub>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B1A,100:8B5CF6&height=3&width=100%" width="100%"/>
 
 ### 🧩 Skill Tree — Click to Expand
 
@@ -126,7 +145,7 @@ I'm a Computer Science student specializing in **Unreal Engine 5 systems program
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B1A,100:8B5CF6&height=3&width=100%" width="100%"/>
 
 ### 🚀 Featured Projects — Click a Project to See Details
 
@@ -190,23 +209,27 @@ I'm a Computer Science student specializing in **Unreal Engine 5 systems program
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B1A,100:8B5CF6&height=3&width=100%" width="100%"/>
 
-### 📡 Currently Building
+### 📡 Currently Building — Live Dev Board
 
 <div align="center">
 
 | Status | Project | Stack |
 |:---:|---|---|
-| 🟢 Active | Multiplayer Survival Architecture | `UE5` `C++` `Replication` |
-| 🟢 Active | Gameplay Ability System (GAS) Integration | `UE5` `GAS` `C++` |
-| 🟡 In Progress | Advanced Inventory V2 | `UE5` `UMG` `Fast Array Serialization` |
+| 🟢 ACTIVE | Multiplayer Survival Architecture | `UE5` `C++` `Replication` |
+| 🟢 ACTIVE | Gameplay Ability System (GAS) Integration | `UE5` `GAS` `C++` |
+| 🟡 IN PROGRESS | Advanced Inventory V2 | `UE5` `UMG` `Fast Array Serialization` |
+
+<img src="https://img.shields.io/badge/BUILD-PASSING-00FF88?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/ENGINE-UE5.4-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+<img src="https://img.shields.io/badge/COMMITS-DAILY-A855F7?style=for-the-badge&logo=git&logoColor=white"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B1A,100:8B5CF6&height=3&width=100%" width="100%"/>
 
-### 📊 GitHub Stats
+### 📊 Player Stats — GitHub Dashboard
 
 <div align="center">
 
@@ -219,23 +242,32 @@ I'm a Computer Science student specializing in **Unreal Engine 5 systems program
 
 <br/><br/>
 
+<!-- Trophy / Achievement Badges -->
+<img src="https://github-profile-trophy.vercel.app/?username=SauravCraft&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" />
+
+<br/><br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SauravCraft&theme=react-dark&hide_border=true&bg_color=0A0A18&color=00D4FF&line=A855F7&point=F5C518" width="100%"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B1A,100:8B5CF6&height=3&width=100%" width="100%"/>
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Snake — Eating My Commit History
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SauravCraft/SauravCraft/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation"/>
-
-<sub>⚙️ Animates automatically via GitHub Actions — see setup note below</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SauravCraft/SauravCraft/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SauravCraft/SauravCraft/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/SauravCraft/SauravCraft/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
 
 </div>
 
----
+> ⚙️ **Setup required** — this animation is generated by a GitHub Action and an `output` branch in your `SauravCraft/SauravCraft` repo. See the **Setup Guide** at the bottom of this README — it won't render until the workflow runs once.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B1A,100:8B5CF6&height=3&width=100%" width="100%"/>
 
 ### 🏆 Achievements
 
@@ -247,21 +279,22 @@ I'm a Computer Science student specializing in **Unreal Engine 5 systems program
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B1A,100:8B5CF6&height=3&width=100%" width="100%"/>
 
 ### 🎯 Career Goal
 
 <div align="center">
 
 ```
-Seeking a high-impact internship or entry-level role in
-Game Systems Engineering (Unreal Engine 5 / C++)
-→ Long-term goal: Senior Gameplay Programmer / Engine Systems Engineer
+> OBJECTIVE: Secure internship / entry-level role
+> CLASS:     Game Systems Engineer (Unreal Engine 5 / C++)
+> NEXT LEVEL: Senior Gameplay Programmer / Engine Systems Engineer
+> ACHIEVEMENT UNLOCKED: Open to Relocation & Remote Work
 ```
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B1A,100:8B5CF6&height=3&width=100%" width="100%"/>
 
 ### 🤝 Connect With Me
 
@@ -280,13 +313,14 @@ Game Systems Engineering (Unreal Engine 5 / C++)
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
-
-<div align="center">
-<br/>
+<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SauravCraft&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:0066CC,100:0B0B1A&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:0066CC,100:0B0B1A&height=120&section=footer&animation=twinkling" width="100%"/>
+
+<div align="center">
+<sub>⚡ Last build: passing &nbsp;|&nbsp; 🎮 Currently in Unreal Engine 5 &nbsp;|&nbsp; ☕ Fueled by curiosity</sub>
+</div>
