@@ -20,7 +20,7 @@
 <a href="https://www.linkedin.com/in/saurav-kumar-88a069315/?skipRedirect=true" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://sauravcraft.netlify.app" target="_blank">
+<a href="https://sauravcraft.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
 <a href="mailto:sauravkumar7739s@gmail.com">
@@ -49,7 +49,7 @@ I'm a Computer Science student specializing in **Unreal Engine 5 systems program
 - 📜 Certified in OOP (C++), UE5 Fundamentals, Advanced UMG/UI-UX, Inventory Systems, and Oracle SQL
 - 💬 Ask me about Unreal Engine replication, level streaming, or character movement systems
 - 📫 Reach me at **sauravkumar7739s@gmail.com**
-- 🌐 Portfolio: **[sauravcraft.netlify.app](https://sauravcraft.netlify.app)**
+- 🌐 Portfolio: **[sauravcraft.vercel.app](https://sauravcraft.vercel.app)**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B1A,100:8B5CF6&height=3&width=100%" width="100%"/>
 
@@ -169,7 +169,7 @@ I'm a Computer Science student specializing in **Unreal Engine 5 systems program
 
 **Stack:** `Unreal Engine 5` `C++` `Blueprints` `Niagara`
 
-**[View Repo →](https://github.com/SauravCraft/Dungeon_Escape)** · **[Live Demo →](https://sauravcraft.netlify.app/projects/dungeon)**
+**[View Repo →](https://github.com/SauravCraft/Dungeon_Escape)** · **[Live Demo →](https://sauravcraft.vercel.app/projects/dungeon)**
 
 </details>
 
@@ -181,7 +181,7 @@ I'm a Computer Science student specializing in **Unreal Engine 5 systems program
 
 **Stack:** `Unreal Engine 5` `C++` `Enhanced Input System`
 
-**[View Repo →](https://github.com/SauravCraft/ParkourGame)** · **[Live Demo →](https://sauravcraft.netlify.app/projects/parkour)**
+**[View Repo →](https://github.com/SauravCraft/ParkourGame)** · **[Live Demo →](https://sauravcraft.vercel.app/projects/parkour)**
 
 </details>
 
@@ -205,7 +205,7 @@ I'm a Computer Science student specializing in **Unreal Engine 5 systems program
 
 **Stack:** `HTML/CSS/JS` `Canvas API` `Responsive Design`
 
-**[View Repo →](https://github.com/SauravCraft/portfolio)** · **[Live Site →](https://sauravcraft.netlify.app)**
+**[View Repo →](https://github.com/SauravCraft/portfolio)** · **[Live Site →](https://sauravcraft.vercel.app)**
 
 </details>
 
@@ -260,7 +260,6 @@ I'm a Computer Science student specializing in **Unreal Engine 5 systems program
 
 </div>
 
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B1A,100:8B5CF6&height=3&width=100%" width="100%"/>
 
 ### 🏆 Achievements
@@ -300,7 +299,7 @@ I'm a Computer Science student specializing in **Unreal Engine 5 systems program
 <a href="https://www.linkedin.com/in/saurav-kumar-88a069315/?skipRedirect=true" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://sauravcraft.netlify.app" target="_blank">
+<a href="https://sauravcraft.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
 <a href="https://github.com/SauravCraft" target="_blank">
