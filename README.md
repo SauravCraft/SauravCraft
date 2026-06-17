@@ -238,7 +238,7 @@ I'm a Computer Science student specializing in **Unreal Engine 5 systems program
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SauravCraft&theme=tokyonight&hide_border=true&background=0A0A18&ring=00D4FF&fire=A855F7&currStreakLabel=00D4FF" />
+<img src="https://streak-stats.demolab.com/?user=SauravCraft&theme=tokyonight&hide_border=true&background=0A0A18&ring=00D4FF&fire=A855F7&currStreakLabel=00D4FF" />
 
 <br/><br/>
 
