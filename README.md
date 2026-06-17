@@ -238,6 +238,7 @@ I'm a Computer Science student specializing in **Unreal Engine 5 systems program
 
 <br/>
 
+<!-- STREAK STATS — using streak-stats.demolab.com (stable, maintained official mirror) -->
 <img src="https://streak-stats.demolab.com/?user=SauravCraft&theme=tokyonight&hide_border=true&background=0A0A18&ring=00D4FF&fire=A855F7&currStreakLabel=00D4FF" />
 
 <br/><br/>
