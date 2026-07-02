@@ -233,8 +233,8 @@ I'm a Computer Science student specializing in **Unreal Engine 5 systems program
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SauravCraft&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a18&title_color=00D4FF&icon_color=A855F7&text_color=A1A1AA&ring_color=00D4FF" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SauravCraft&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a18&title_color=00D4FF&text_color=A1A1AA" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SauravCraft&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a18&title_color=00D4FF&icon_color=A855F7&text_color=A1A1AA&ring_color=00D4FF&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SauravCraft&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a18&title_color=00D4FF&text_color=A1A1AA&cache_seconds=86400" />
 
 <br/>
 
