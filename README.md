@@ -2,7 +2,7 @@
 <!-- Animated header banner --> 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B1A,50:0066CC,100:8B5CF6&height=200&section=header&text=SAURAV%20KUMAR&fontSize=70&fontColor=ffffff&fontAlignY=32&animation=fadeIn&desc=Game%20Systems%20Engineer%20%E2%80%A2%20UE5%20%2F%20C%2B%2B%20%E2%80%A2%20Frontend%20%2F%20UI-UX&descAlignY=55&descSize=16" width="100%"/>
 
-<!-- Typing animation -->
+<!-- Typing animation -->. 
 <a href="https://github.com/SauravCraft">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=900&color=00D4FF&center=true&vCenter=true&width=700&height=40&lines=%3E+Loading+Player_SauravKumar.exe...;%3E+Specialization%3A+UE5+Networking+%2F+Replication;%3E+Secondary+Class%3A+Frontend+%2F+UI-UX+Associate;%3E+Status%3A+Open+to+Internships+%2F+Entry-Level+Roles;%3E+Press+START+to+scroll+down" alt="Typing SVG" />
 </a>
