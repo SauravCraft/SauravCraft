@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center">
 <!-- Animated header banner --> 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B1A,50:0066CC,100:8B5CF6&height=200&section=header&text=SAURAV%20KUMAR&fontSize=70&fontColor=ffffff&fontAlignY=32&animation=fadeIn&desc=Game%20Systems%20Engineer%20%E2%80%A2%20UE5%20%2F%20C%2B%2B%20%E2%80%A2%20Frontend%20%2F%20UI-UX&descAlignY=55&descSize=16" width="100%"/>
 
